@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important Links
+### Material
+To get myself started building UIs fast I've pulled in the Material UI lib.  You can see details on it and how to use it [here](https://material-ui.com/getting-started/usage/)
+
 ## Available Scripts
 
 In the project directory, you can run:
