@@ -5,7 +5,7 @@ class TitleCard extends React.Component {
 
     render() {
         return (
-            <Box color='green' bgcolor='yellow' fontSize='24pt'>
+            <Box className="Section Header">
                 {this.props.title}
             </Box>
         );

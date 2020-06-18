@@ -1,5 +1,17 @@
+/*
+  Any section in the app
+*/
+.Section {
+  background-color: #020202;
+  color: #FAFAFA;
+}
+
+.Header {
+  font-size: 24pt;  
+}
+
 .App {
-  text-align: center;
+  background-color: #020202;
 }
 
 .App-logo {
