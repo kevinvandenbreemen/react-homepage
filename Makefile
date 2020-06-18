@@ -1,7 +1,10 @@
-.PHONY: test, setup
+.PHONY: test, setup, build
 	
-test: setup
+test: tscompile
 	CI=true npm test
 
 setup:
 	npm install
+
+tscompile: setup
+	npm run compile-typescript
